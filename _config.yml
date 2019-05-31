@@ -1,5 +1,5 @@
 site: Index Jekyll Theme
-baseurl: "/plossphoto"
+baseurl: ""
 collections:
   pages:
     output: true
