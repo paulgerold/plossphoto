@@ -13,10 +13,10 @@ featured_image: /images/social.jpg
 
 		<article class="blog-post">
 
-			<a class="blog-post__link" href="{{ post.url }}">
+			<a class="blog-post__link" href="{{ site.baseurl }}{{ post.url }}">
 
 				<div class="blog-post__image">
-					<img src="{{ post.featured_image  }}" alt="{{ post.title }}">
+					<img src="{{ site.baseurl }}{{ post.featured_image  }}" alt="{{ post.title }}">
 				</div>
 
 				<div class="blog-post__content">
