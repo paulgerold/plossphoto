@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Ploss
+  site_tagline: Photographe portrait, paysage basé à Montréal.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,14 +9,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Portrait'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
+    - title: 'Paysage'
+      url: '/landscape'
+    - title: 'Photo de rue'
+      url: '/street'
+    - title: 'Macro'
+      url: '/macro'
+    - title: 'A propos'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8
@@ -31,7 +33,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/ploss.photo/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
