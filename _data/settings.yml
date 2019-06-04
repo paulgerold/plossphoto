@@ -10,7 +10,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Portrait'
-      url: '/'
+      url: '/portrait'
     - title: 'Paysage'
       url: '/landscape'
     - title: 'Photo de rue'
