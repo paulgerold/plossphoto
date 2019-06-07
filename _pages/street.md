@@ -1,8 +1,11 @@
 ---
-title: About Index
-subtitle: Index is a minimal, fixed sidebar grid portfolio Jekyll theme. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: Photo de rue
+subtitle: 
+description: 
+featured_image: /images/macro/DSC_2441.jpg
 ---
 
-### ok
+<div class="gallery" data-columns="2">
+	<img src="/images/street/DSC_0480.jpg">
+    <img src="/images/street/DSC_1280.jpg">
+</div>

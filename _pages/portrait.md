@@ -5,7 +5,7 @@ description:
 featured_image: /images/macro/DSC_2441.jpg
 ---
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
 	<img src="/images/portrait/DSC_1905.jpg">
     <img src="/images/portrait/DSC_1957.jpg">
     <img src="/images/portrait/DSC_1605.jpg">

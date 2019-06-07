@@ -9,15 +9,17 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Accueil'
+      url: '/'
     - title: 'Portrait'
       url: '/portrait'
     - title: 'Paysage'
       url: '/landscape'
     - title: 'Photo de rue'
       url: '/street'
-    - title: 'Macro'
-      url: '/macro'
-    - title: 'A propos'
+    - title: 'Macrophotographie'
+      url: '/macrophotographie'
+    - title: 'À propos'
       url: '/about'
 
 grid_settings:
